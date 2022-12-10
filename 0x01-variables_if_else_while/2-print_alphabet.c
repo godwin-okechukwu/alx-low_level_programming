@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - print alhabet in lowercase
@@ -12,6 +12,6 @@ int main(void)
 	{
 		putchar(lower_case);
 	}
-	putchar('\n')
-	return (0)
+	putchar('\n');
+	return (0);
 }
