@@ -3,7 +3,7 @@
 /**
  * main - prints characters of the alphabet
  *
- * Return: always 0 (Success)
+ * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
